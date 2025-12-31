@@ -122,4 +122,13 @@ The **Decision Tree (Entropy)** model achieved the highest accuracy, while **Nai
 
 ---
 
-## 📁 Repository Structure
+## 📅 Project Timeline
+- **Phase I:** Data preprocessing, visualization, and feature reduction  
+- **Phase II:** Model implementation and evaluation  
+
+---
+
+## 📧 Contact
+For questions or feedback:
+
+📩 **Email:** nasserhossam14@gmail.com
